@@ -6,8 +6,7 @@
   "author": "MORK-RAKSA <mork.raksa.1221@rupp.edu.kh>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js",
-    "json": "json-server --watch discover.data.json --port 9000"
+    "start": "node index.js"
   },
   "dependencies": {
     "json-server": "^1.0.0-beta.1"
