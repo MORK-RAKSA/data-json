@@ -1,14 +1,15 @@
 {
   "name": "data-json-server",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "repository": "https://github.com/MORK-RAKSA/data-json.git",
-  "author": "MORK-RAKSA <mork.raksa.1221@rupp.edu.kh>",
-  "license": "MIT",
   "scripts": {
     "start": "node index.js"
   },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "json-server": "^1.0.0-beta.1"
+    "json-server": "^0.17.1",
+    "jsonserver": "^0.1.6"
   }
 }
