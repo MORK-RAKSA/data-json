@@ -1,0 +1,16 @@
+{
+  "name": "data-json-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MORK-RAKSA/data-json.git",
+  "author": "MORK-RAKSA <mork.raksa.1221@rupp.edu.kh>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "json": "json-server --watch discover.data.json --port 9000"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1",
+    "vercel": "^35.0.3"
+  }
+}
