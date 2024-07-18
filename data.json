@@ -1,0 +1,223 @@
+{
+    "recommendation": [
+      {
+        "category": "Meditation",
+        "src": "/images/slideImg/discoverscreen/meditation.png",
+        "title": "Lorem ipsum dolor, sit amet conser adipisicing elit.",
+        "author": "Peaceful Minds"
+      },
+      {
+        "category": "Sport",
+        "src": "/images/slideImg/discoverscreen/sport.png",
+        "title": "Lorem ipsum dolor Lorem ipsum dolor, sit amet ectetur elit",
+        "author": "James Clear"
+      },
+      {
+        "category": "Travel",
+        "src": "/images/slideImg/discoverscreen/meditation.png",
+        "title": "Lorem ipsum dolor, sit amet morv loiva adipisicing elit.",
+        "author": "Peaceful Minds"
+      }
+    ],
+    "category": [
+      {
+        "id": 1,
+        "title": "Meditation",
+        "src": "/images/slideImg/discoverscreen/meditation.png"
+      },
+      {
+        "id": 2,
+        "title": "Sport",
+        "src": "/images/slideImg/discoverscreen/sport.png"
+      },
+      {
+        "id": 3,
+        "title": "Travel",
+        "src": "/images/slideImg/discoverscreen/travels.png"
+      }
+    ],
+    "questions": [
+      {
+        "student": [
+          {
+            "text": "Education Level",
+            "answers": [
+              {
+                "text": "Elementary School, High School Students.",
+                "icon": "school.png"
+              },
+              {
+                "text": "Undergraduate Student.",
+                "icon": "univer.png"
+              },
+              {
+                "text": "Graduate, Researcher.",
+                "icon": "computer.png"
+              }
+            ]
+          },
+          {
+            "text": "What are the main challenges you face in staying productive with your studies?",
+            "answers": [
+              {
+                "text": "Procrastination and distractions.",
+                "icon": "megaphone.png"
+              },
+              {
+                "text": "Poor study planning and time management.",
+                "icon": "plan.png"
+              },
+              {
+                "text": "Lack of motivation and Overwhelm by assignments",
+                "icon": "cup.png"
+              }
+            ]
+          },
+          {
+            "text": "Which features would you like to see in a productivity planner?",
+            "answers": [
+              {
+                "text": "Customization task lists, Daily/weekly/monthly views",
+                "icon": "list.png"
+              },
+              {
+                "text": "Time management methods, Study progress tracking",
+                "icon": "schedule.png"
+              },
+              {
+                "text": "Collaboration features (study groups)",
+                "icon": "collab.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "staff": [
+          {
+            "text": "How often do you set daily goals or tasks to accomplish?",
+            "answers": [
+              {
+                "text": "Daily, I plan tasks every morning or the night before.",
+                "icon": "task.png"
+              },
+              {
+                "text": "Weekly, I set goals at the start of each week.",
+                "icon": "time.png"
+              },
+              {
+                "text": "Occasionally, only for important projects or deadlines.",
+                "icon": "flag.png"
+              }
+            ]
+          },
+          {
+            "text": "What is your biggest challenge in managing your time effectively?",
+            "answers": [
+              {
+                "text": "Procrastination, I delay starting tasks.",
+                "icon": "task-time.png"
+              },
+              {
+                "text": "Distractions, easily and Lack of motivation",
+                "icon": "arm.png"
+              },
+              {
+                "text": "Lack of planning tools, and Time management",
+                "icon": "sunny.png"
+              }
+            ]
+          },
+          {
+            "text": "How often do you check or review your Productivity or Progress?",
+            "answers": [
+              {
+                "text": "Daily, I check my progress every day.",
+                "icon": "date.png"
+              },
+              {
+                "text": "Weekly, I review week's end.",
+                "icon": "time-date.png"
+              },
+              {
+                "text": "Monthly, I often check my productivity once a month.",
+                "icon": "apr.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "teacher": [
+          {
+            "text": "What is your Business Stage?",
+            "answers": [
+              {
+                "text": "Startup, business is being set up and launched.",
+                "icon": "latop.png"
+              },
+              {
+                "text": "Established, stable operations and a solid customer base.",
+                "icon": "company.png"
+              },
+              {
+                "text": "Scaling, growth and significant expansion efforts.",
+                "icon": "hotel.png"
+              }
+            ]
+          },
+          {
+            "text": "What are the main challenges you face in staying productive with your business?",
+            "answers": [
+              {
+                "text": "Time management and Delegation of tasks",
+                "icon": "schedule.png"
+              },
+              {
+                "text": "Staying motivated and clear Distractions",
+                "icon": "cup.png"
+              },
+              {
+                "text": "Managing multiple projects, Strategic planning",
+                "icon": "phone.png"
+              }
+            ]
+          },
+          {
+            "text": "How do you currently address these productivity challenges?",
+            "answers": [
+              {
+                "text": "Setting clear goals and Prioritizing tasks",
+                "icon": "note.png"
+              },
+              {
+                "text": "Delegating responsibilities and Using to-do lists",
+                "icon": "list.png"
+              },
+              {
+                "text": "Seeking motivation and find a good advice's blogs.",
+                "icon": "blog.png"
+              }
+            ]
+          },
+          {
+            "text": "How often do you set daily goals or tasks to accomplish?",
+            "answers": [
+              {
+                "text": "Weekly, I set goals at the start of each week.",
+                "icon": "/icons/weekly.png"
+              },
+              {
+                "text": "Daily, I set goals each day.",
+                "icon": "/icons/daily.png"
+              },
+              {
+                "text": "Monthly, I set goals at the start of each month.",
+                "icon": "/icons/monthly.png"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
