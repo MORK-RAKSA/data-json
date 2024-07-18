@@ -2,7 +2,7 @@
     "recommendation": [
       {
         "category": "Meditation",
-        "src": "/images/slideImg/discoverscreen/meditation.png",
+        "src": "/data-json-server/Image/me.png",
         "title": "Lorem ipsum dolor, sit amet conser adipisicing elit.",
         "author": "Peaceful Minds"
       },
