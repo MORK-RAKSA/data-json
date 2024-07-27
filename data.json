@@ -227,6 +227,7 @@
   ],
   "article": [
     {
+      "id": 1,
       "category": "meditation",
       "articlename": "The Art of Mindfulness Meditation",
       "author": "Alice Johnson",
@@ -237,20 +238,21 @@
           {
             "title": "Principles of Mindfulness",
             "detail": "Mindfulness is about being present and fully engaged with the current moment. It involves observing thoughts and feelings without judgment and practicing non-reactivity. By focusing on the here and now, mindfulness meditation helps individuals develop a deeper connection with their own experiences, promoting emotional regulation and mental clarity. Practicing mindfulness can lead to greater self-awareness and a more balanced approach to handling life's challenges.",
-            "src": "/images/discover/article/meditation1_section1.jpg"
+            "src": "/images/discover/article_img/section_img/meditation1_section1.jpg"
           }
         ],
         "2": [
           {
             "title": "Techniques to Practice",
             "detail": "There are various techniques used in mindfulness meditation, each designed to enhance the practitioner's awareness and focus. Mindful breathing, for example, involves paying attention to the breath, noticing the sensation of inhalation and exhalation. The body scan technique requires a systematic focus on different body parts, helping to identify and release tension. Guided imagery involves using mental visualization to create calming and relaxing scenarios. Each technique offers unique benefits and can be tailored to individual preferences and needs.",
-            "src": "/images/discover/article/meditation1_section2.jpg"
+            "src": "/images/discover/article_img/section_img/meditation1_section2.jpg"
           }
         ]
       },
-      "src": "/images/discover/article/meditation1.jpg"
+      "src": "/images/discover/article_img/meditation1.jpg"
     },
     {
+      "id": 2,
       "category": "travel",
       "articlename": "Exploring Hidden Gems in Southeast Asia",
       "author": "Mark Thompson",
@@ -261,20 +263,21 @@
           {
             "title": "Komodo Islands",
             "detail": "The Komodo Islands are famous for their unique wildlife, including the famous Komodo dragons. The islands offer stunning landscapes, from rugged volcanic terrain to pristine beaches. Visitors can embark on guided tours to spot the dragons in their natural habitat and enjoy snorkeling or diving in the crystal-clear waters surrounding the islands. The rich biodiversity and dramatic scenery make Komodo a must-visit destination for nature enthusiasts.",
-            "src": "/images/discover/article/travel1_section1.jpg"
+            "src": "/images/discover/article_img/section_img/travel1_section1.jpg"
           }
         ],
         "2": [
           {
             "title": "Luang Prabang",
             "detail": "Luang Prabang is a town in Laos known for its well-preserved temples and colonial architecture. The town's serene atmosphere is enhanced by its location along the Mekong River and its proximity to beautiful natural landscapes. Visitors can explore ancient temples, participate in traditional alms-giving ceremonies, and enjoy the local cuisine. The night market offers a variety of handicrafts and local foods, adding to the town's charm.",
-            "src": "/images/discover/article/travel1_section2.jpg"
+            "src": "/images/discover/article_img/section_img/travel1_section2.jpg"
           }
         ]
       },
-      "src": "/images/discover/article/travel1.jpg"
+      "src": "/images/discover/article_img/travel1.jpg"
     },
     {
+      "id": 3,
       "category": "workout",
       "articlename": "Effective Home Workouts for Busy Professionals",
       "author": "Emma Davis",
@@ -285,20 +288,21 @@
           {
             "title": "Strength Training",
             "detail": "Strength training exercises are crucial for building muscle and improving overall fitness. Simple bodyweight exercises such as squats, lunges, and push-ups can be highly effective when performed correctly. Incorporating resistance bands or dumbbells can further enhance the workout. This section provides a variety of strength training exercises that can be done at home, along with tips on proper form and technique.",
-            "src": "/images/discover/article/workout1_section1.jpg"
+            "src": "/images/discover/article_img/section_img/workout1_section1.jpg"
           }
         ],
         "2": [
           {
             "title": "Cardiovascular Workouts",
             "detail": "Cardiovascular workouts are essential for improving heart health and increasing endurance. High-intensity interval training (HIIT) is a popular method that combines short bursts of intense activity with rest periods. Exercises such as jumping jacks, burpees, and high knees can be incorporated into a HIIT routine. This section explains the benefits of cardiovascular workouts and provides sample HIIT routines that can be done at home with minimal equipment.",
-            "src": "/images/discover/article/workout1_section2.jpg"
+            "src": "/images/discover/article_img/section_img/workout1_section2.jpg"
           }
         ]
       },
-      "src": "/images/discover/article/workout1.jpg"
+      "src": "/images/discover/article_img/workout1.jpg"
     },
     {
+      "id": 4,
       "category": "sport",
       "articlename": "The Evolution of Team Sports in the Modern Era",
       "author": "James Carter",
@@ -309,20 +313,21 @@
           {
             "title": "Traditional Team Sports",
             "detail": "Traditional team sports such as football and basketball have undergone significant changes due to advancements in technology and coaching methods. Enhanced equipment, data analysis, and improved training techniques have all contributed to the evolution of these sports. This section explores how these innovations have impacted performance, strategy, and the overall experience of traditional team sports.",
-            "src": "/images/discover/article/sport1_section1.jpg"
+            "src": "/images/discover/article_img/section_img/sport1_section1.jpg"
           }
         ],
         "2": [
           {
             "title": "Emerging Sports",
             "detail": "Emerging sports, including esports and extreme sports, have introduced new dynamics to the world of team sports. Esports, for example, has grown rapidly, attracting large audiences and offering new opportunities for competition. Extreme sports, such as rock climbing and skateboarding, have also gained popularity, showcasing unique skills and pushing the boundaries of athleticism. This section discusses the rise of these emerging sports and their impact on traditional sports.",
-            "src": "/images/discover/article/sport1_section2.jpg"
+            "src": "/images/discover/article_img/section_img/sport1_section2.jpg"
           }
         ]
       },
-      "src": "/images/discover/article/sport1.jpg"
+      "src": "/images/discover/article_img/sport1.jpg"
     },
     {
+      "id": 5,
       "category": "meditation",
       "articlename": "Meditation Techniques for Stress Relief",
       "author": "Sophia Green",
@@ -333,167 +338,18 @@
           {
             "title": "Progressive Muscle Relaxation",
             "detail": "Progressive muscle relaxation involves tensing and then relaxing different muscle groups to reduce stress and promote relaxation. This technique helps to identify areas of tension and encourages a deeper state of physical and mental relaxation. By focusing on each muscle group, individuals can become more aware of their physical sensations and learn to release accumulated stress.",
-            "src": "/images/discover/article/meditation2_section1.jpg"
+            "src": "/images/discover/article_img/section_img/meditation2_section1.jpg"
           }
         ],
         "2": [
           {
             "title": "Mindful Breathing",
-            "detail": "Mindful breathing focuses on observing your breath and calming the mind. Techniques include deep diaphragmatic breathing, where you breathe deeply into your abdomen, and focused attention on the breath, where you bring awareness to the sensation of breathing in and out. This practice helps to center the mind and reduce feelings of anxiety and stress.",
-            "src": "/images/discover/article/meditation2_section2.jpg"
+            "detail": "Mindful breathing focuses on observing your breath and calming the mind. Techniques include deep diaphragmatic breathing, where you breathe deeply into your abdomen, and focused attention on the breath, where you bring awareness to the sensation of breathing in and out. This practice helps to center the mind and reduce anxiety, making it an effective tool for managing stress.",
+            "src": "/images/discover/article_img/section_img/meditation2_section2.jpg"
           }
         ]
       },
-      "src": "/images/discover/article/meditation2.jpg"
-    },
-    {
-      "category": "travel",
-      "articlename": "Top Adventure Activities Around the World",
-      "author": "Lucas Moore",
-      "date": "28 June 2024",
-      "description": "For those who seek excitement and thrills, adventure travel offers a wealth of opportunities. This article explores some of the top adventure activities around the world, including skydiving in Dubai, trekking in the Himalayas, and scuba diving in the Great Barrier Reef. Each activity provides a unique experience and a chance to explore some of the world's most stunning natural landscapes.",
-      "sections": {
-        "1": [
-          {
-            "title": "Skydiving in Dubai",
-            "detail": "Skydiving over Dubai offers an unparalleled view of the city's iconic landmarks, including the Palm Jumeirah and the Burj Khalifa. The experience combines adrenaline with breathtaking views, making it a top choice for adventure seekers. This section provides information on what to expect during a skydiving session and tips for making the most of the experience.",
-            "src": "/images/discover/article/travel2_section1.jpg"
-          }
-        ],
-        "2": [
-          {
-            "title": "Trekking in the Himalayas",
-            "detail": "Trekking in the Himalayas offers an unforgettable adventure with stunning landscapes and challenging routes. The region is home to some of the world's highest peaks, including Mount Everest. This section explores popular trekking routes, tips for preparation, and the breathtaking scenery that awaits trekkers in this majestic region.",
-            "src": "/images/discover/article/travel2_section2.jpg"
-          }
-        ],
-        "3": [
-          {
-            "title": "Scuba Diving in the Great Barrier Reef",
-            "detail": "The Great Barrier Reef is one of the world's most renowned scuba diving destinations, offering a chance to explore vibrant coral reefs and diverse marine life. This section highlights the best dive sites, what to expect underwater, and the importance of preserving this natural wonder.",
-            "src": "/images/discover/article/travel2_section3.jpg"
-          }
-        ]
-      },
-      "src": "/images/discover/article/travel2.jpg"
-    },
-    {
-      "category": "workout",
-      "articlename": "The Benefits of High-Intensity Interval Training (HIIT)",
-      "author": "Olivia Smith",
-      "date": "30 June 2024",
-      "description": "High-Intensity Interval Training (HIIT) is a popular workout method known for its efficiency and effectiveness. It involves short bursts of intense exercise followed by rest periods, which can improve cardiovascular health, increase metabolism, and burn fat. This article explores the benefits of HIIT, provides sample workouts, and offers tips for incorporating HIIT into a busy schedule.",
-      "sections": {
-        "1": [
-          {
-            "title": "Benefits of HIIT",
-            "detail": "HIIT workouts are designed to maximize results in a short amount of time. Benefits include improved cardiovascular fitness, increased metabolism, and enhanced fat burning. The high-intensity intervals challenge the body and boost overall fitness, making HIIT an effective training method for those with limited time. This section delves into the science behind HIIT and its impact on fitness.",
-            "src": "/images/discover/article/workout2_section1.jpg"
-          }
-        ],
-        "2": [
-          {
-            "title": "Sample HIIT Workouts",
-            "detail": "Sample HIIT workouts include exercises such as burpees, mountain climbers, and high knees. These workouts can be done with minimal equipment and adjusted to fit individual fitness levels. This section provides examples of HIIT routines, including instructions and variations for each exercise to ensure a comprehensive workout experience.",
-            "src": "/images/discover/article/workout2_section2.jpg"
-          }
-        ],
-        "3": [
-          {
-            "title": "Incorporating HIIT into Your Routine",
-            "detail": "Incorporating HIIT into a regular workout routine involves scheduling sessions, choosing appropriate exercises, and ensuring proper recovery. This section offers tips on how to integrate HIIT effectively into a busy lifestyle, including recommendations for frequency, duration, and balancing HIIT with other forms of exercise.",
-            "src": "/images/discover/article/workout2_section3.jpg"
-          }
-        ]
-      },
-      "src": "/images/discover/article/workout2.jpg"
-    },
-    {
-      "category": "sport",
-      "articlename": "Understanding the Impact of Technology on Modern Sports",
-      "author": "Michael Wilson",
-      "date": "12 July 2024",
-      "description": "Technology has profoundly impacted the world of sports, from enhanced performance analysis to improved fan engagement. This article examines how technology is changing sports, with a focus on innovations such as wearable tech, video analysis, and virtual reality. These advancements have transformed the way athletes train, compete, and interact with fans.",
-      "sections": {
-        "1": [
-          {
-            "title": "Wearable Technology",
-            "detail": "Wearable technology, such as fitness trackers and smartwatches, has revolutionized sports by providing athletes with valuable data on their performance and health. These devices can monitor metrics like heart rate, distance, and calories burned, helping athletes optimize their training and recovery. This section explores the impact of wearable technology on sports performance and training.",
-            "src": "/images/discover/article/sport2_section1.jpg"
-          }
-        ],
-        "2": [
-          {
-            "title": "Video Analysis",
-            "detail": "Video analysis tools have become essential for coaches and athletes, allowing them to review game footage, analyze performance, and develop strategies. By breaking down plays and examining detailed footage, teams can gain insights into their strengths and weaknesses. This section discusses how video analysis contributes to improved performance and game preparation.",
-            "src": "/images/discover/article/sport2_section2.jpg"
-          }
-        ],
-        "3": [
-          {
-            "title": "Virtual Reality",
-            "detail": "Virtual reality (VR) is an emerging technology that offers immersive training experiences for athletes. VR simulations can replicate game scenarios, allowing players to practice skills and strategies in a controlled environment. This section highlights the potential of VR in sports training and its role in enhancing athlete performance.",
-            "src": "/images/discover/article/sport2_section3.jpg"
-          }
-        ]
-      },
-      "src": "/images/discover/article/sport2.jpg"
-    },
-    {
-      "category": "meditation",
-      "articlename": "The Science Behind Meditation and Its Benefits",
-      "author": "David Lee",
-      "date": "25 June 2024",
-      "description": "Meditation is more than just a relaxation technique; it is also a scientifically validated practice with numerous benefits. This article delves into the science behind meditation, explaining how it affects brain function, stress levels, and overall well-being. Research has shown that meditation can lead to changes in brain structure, reduced stress, and improved emotional regulation.",
-      "sections": {
-        "1": [
-          {
-            "title": "Neuroscientific Insights",
-            "detail": "Scientific studies have demonstrated that meditation can alter brain structure and function. For example, meditation has been linked to increased grey matter density in areas of the brain associated with emotional regulation and self-awareness. This section explores the neuroscientific research on meditation and its effects on the brain.",
-            "src": "/images/discover/article/meditation3_section1.jpg"
-          }
-        ],
-        "2": [
-          {
-            "title": "Impact on Stress and Well-being",
-            "detail": "Meditation has been shown to reduce stress and improve overall well-being. By promoting relaxation and mindfulness, meditation helps individuals manage stress more effectively and enhances their emotional resilience. This section discusses the benefits of meditation for stress relief and mental health.",
-            "src": "/images/discover/article/meditation3_section2.jpg"
-          }
-        ]
-      },
-      "src": "/images/discover/article/meditation3.jpg"
-    },
-    {
-      "category": "travel",
-      "articlename": "Cultural Experiences to Have in South America",
-      "author": "Rachel Adams",
-      "date": "01 July 2024",
-      "description": "South America is a continent rich in cultural diversity and history. This article highlights unique cultural experiences to have in countries like Brazil, Argentina, and Peru, from festivals to traditional cuisines. Exploring South America's vibrant cultures offers travelers a chance to immerse themselves in local traditions and enjoy diverse culinary delights.",
-      "sections": {
-        "1": [
-          {
-            "title": "Carnival in Brazil",
-            "detail": "The Carnival in Brazil is one of the most famous festivals in the world, known for its vibrant parades, samba music, and elaborate costumes. This section provides tips on how to experience Carnival like a local, including recommendations for viewing the parades, attending street parties, and enjoying the festive atmosphere.",
-            "src": "/images/discover/article/travel3_section1.jpg"
-          }
-        ],
-        "2": [
-          {
-            "title": "Machu Picchu Exploration",
-            "detail": "Machu Picchu in Peru is a must-visit for history enthusiasts and adventurers alike. This ancient Incan city offers a glimpse into the rich history and culture of the Inca civilization. This section provides information on the best ways to explore Machu Picchu, including guided tours, hiking options, and tips for making the most of the visit.",
-            "src": "/images/discover/article/travel3_section2.jpg"
-          }
-        ],
-        "3": [
-          {
-            "title": "Argentinian Cuisine",
-            "detail": "Argentinian cuisine is renowned for its flavorful dishes and unique culinary traditions. From savory empanadas to delicious steaks and the iconic mate tea, this section explores the culinary delights of Argentina. Discover the best places to enjoy authentic Argentinian food and learn about the cultural significance of various dishes.",
-            "src": "/images/discover/article/travel3_section3.jpg"
-          }
-        ]
-      },
-      "src": "/images/discover/article/travel3.jpg"
+      "src": "/images/discover/article_img/meditation2.jpg"
     }
   ]
-  
 }
