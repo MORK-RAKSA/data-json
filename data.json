@@ -19,7 +19,7 @@
       "author": "Peaceful Minds"
     }
   ],
-  "category": [
+"category": [
     {
       "id": 1,
       "title": "Meditation",
@@ -39,6 +39,96 @@
       "id": 4,
       "title": "Workout",
       "src": "/images/slideImg/discoverscreen/workout.png"
+    },
+    {
+      "id": 5,
+      "title": "Cooking",
+      "src": "/images/slideImg/discoverscreen/cooking.png"
+    },
+    {
+      "id": 6,
+      "title": "Technology",
+      "src": "/images/slideImg/discoverscreen/technology.png"
+    },
+    {
+      "id": 7,
+      "title": "Science",
+      "src": "/images/slideImg/discoverscreen/science.png"
+    },
+    {
+      "id": 8,
+      "title": "History",
+      "src": "/images/slideImg/discoverscreen/history.png"
+    },
+    {
+      "id": 9,
+      "title": "Art",
+      "src": "/images/slideImg/discoverscreen/art.png"
+    },
+    {
+      "id": 10,
+      "title": "Health",
+      "src": "/images/slideImg/discoverscreen/health.png"
+    },
+    {
+      "id": 11,
+      "title": "Business",
+      "src": "/images/slideImg/discoverscreen/business.png"
+    },
+    {
+      "id": 12,
+      "title": "Culture",
+      "src": "/images/slideImg/discoverscreen/culture.png"
+    },
+    {
+      "id": 13,
+      "title": "Lifestyle",
+      "src": "/images/slideImg/discoverscreen/lifestyle.png"
+    },
+    {
+      "id": 14,
+      "title": "Education",
+      "src": "/images/slideImg/discoverscreen/education.png"
+    },
+    {
+      "id": 15,
+      "title": "Environment",
+      "src": "/images/slideImg/discoverscreen/environment.png"
+    },
+    {
+      "id": 16,
+      "title": "Finance",
+      "src": "/images/slideImg/discoverscreen/finance.png"
+    },
+    {
+      "id": 17,
+      "title": "Food",
+      "src": "/images/slideImg/discoverscreen/food.png"
+    },
+    {
+      "id": 18,
+      "title": "Psychology",
+      "src": "/images/slideImg/discoverscreen/psychology.png"
+    },
+    {
+      "id": 19,
+      "title": "Philosophy",
+      "src": "/images/slideImg/discoverscreen/philosophy.png"
+    },
+    {
+      "id": 20,
+      "title": "Fashion",
+      "src": "/images/slideImg/discoverscreen/fashion.png"
+    },
+    {
+      "id": 21,
+      "title": "Music",
+      "src": "/images/slideImg/discoverscreen/music.png"
+    },
+    {
+      "id": 22,
+      "title": "Wellness",
+      "src": "/images/slideImg/discoverscreen/wellness.png"
     }
   ],
   "questions": [
@@ -350,6 +440,506 @@
         ]
       },
       "src": "/images/discover/article_img/meditation2.png"
+    },
+    {
+      "id": 6,
+      "category": "health",
+      "articlename": "Nutritional Tips for a Balanced Diet",
+      "author": "David Lee",
+      "date": "01 August 2024",
+      "description": "Maintaining a balanced diet is crucial for overall health and well-being. This article offers practical tips on how to create a nutritious meal plan, highlighting the importance of various food groups and the benefits of a balanced diet. Learn how to incorporate more fruits and vegetables into your meals, choose lean proteins, and reduce sugar intake.",
+      "sections": {
+        "1": [
+          {
+            "title": "Importance of Fruits and Vegetables",
+            "detail": "Fruits and vegetables are essential components of a healthy diet. They provide vital vitamins, minerals, and fiber that support bodily functions and help prevent chronic diseases. Incorporating a variety of colorful fruits and vegetables ensures a broad range of nutrients.",
+            "src": "/images/discover/article_img/section_img/health1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Choosing Lean Proteins",
+            "detail": "Lean proteins, such as chicken, fish, beans, and legumes, are important for building and repairing tissues. They provide essential amino acids without the excess fat found in some other protein sources. This section offers tips on selecting and preparing lean proteins to maintain a healthy diet.",
+            "src": "/images/discover/article_img/section_img/health1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/health1.png"
+    },
+    {
+      "id": 7,
+      "category": "technology",
+      "articlename": "The Future of Artificial Intelligence",
+      "author": "Emily Carter",
+      "date": "25 July 2024",
+      "description": "Artificial intelligence (AI) is rapidly transforming various industries, from healthcare to finance. This article explores the potential future developments in AI technology, including advancements in machine learning, natural language processing, and robotics. Understand the ethical considerations and potential impacts of AI on society.",
+      "sections": {
+        "1": [
+          {
+            "title": "Advancements in Machine Learning",
+            "detail": "Machine learning is at the forefront of AI development, enabling systems to learn from data and improve over time. This section discusses recent breakthroughs in machine learning algorithms and their applications in various fields, including predictive analytics and personalized medicine.",
+            "src": "/images/discover/article_img/section_img/technology1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Ethical Considerations",
+            "detail": "As AI technology advances, ethical considerations become increasingly important. Issues such as data privacy, algorithmic bias, and the potential for job displacement must be addressed. This section explores the ethical challenges and discusses potential solutions to ensure responsible AI development.",
+            "src": "/images/discover/article_img/section_img/technology1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/technology1.png"
+    },
+    {
+      "id": 8,
+      "category": "travel",
+      "articlename": "Adventure Travel Destinations",
+      "author": "Olivia Brown",
+      "date": "20 July 2024",
+      "description": "For those seeking adrenaline-pumping experiences, adventure travel offers a range of exciting destinations. This article highlights some of the best spots for adventure seekers, from mountain climbing in the Alps to white-water rafting in Costa Rica. Learn about the unique challenges and rewards of adventure travel.",
+      "sections": {
+        "1": [
+          {
+            "title": "Mountain Climbing in the Alps",
+            "detail": "The Alps offer stunning scenery and challenging climbs for adventure enthusiasts. This section provides an overview of popular climbing routes, necessary gear, and tips for a successful mountain climbing experience.",
+            "src": "/images/discover/article_img/section_img/travel2_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "White-Water Rafting in Costa Rica",
+            "detail": "Costa Rica is renowned for its thrilling white-water rafting experiences. The country’s rivers offer various levels of difficulty, making it a perfect destination for both beginners and experienced rafters. This section covers the best rivers for rafting and safety precautions to consider.",
+            "src": "/images/discover/article_img/section_img/travel2_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/travel2.png"
+    },
+    {
+      "id": 9,
+      "category": "fitness",
+      "articlename": "Yoga for Beginners",
+      "author": "Liam Martinez",
+      "date": "28 July 2024",
+      "description": "Yoga is a versatile practice that can benefit both the body and mind. This article introduces beginners to yoga, covering basic poses, breathing techniques, and the mental health benefits of regular practice. Learn how to start a yoga routine that suits your lifestyle.",
+      "sections": {
+        "1": [
+          {
+            "title": "Basic Yoga Poses",
+            "detail": "For beginners, mastering basic yoga poses is crucial. This section explains common poses such as downward dog, child's pose, and warrior pose. Each pose includes step-by-step instructions and tips for proper alignment.",
+            "src": "/images/discover/article_img/section_img/fitness1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Breathing Techniques",
+            "detail": "Breathing techniques, or pranayama, are integral to yoga practice. Techniques like deep diaphragmatic breathing and alternate nostril breathing can enhance relaxation and focus. This section provides an overview of these techniques and their benefits.",
+            "src": "/images/discover/article_img/section_img/fitness1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/fitness1.png"
+    },
+    {
+      "id": 10,
+      "category": "cooking",
+      "articlename": "Healthy and Delicious Smoothie Recipes",
+      "author": "Sophia Brown",
+      "date": "30 July 2024",
+      "description": "Smoothies are a convenient and nutritious way to incorporate more fruits and vegetables into your diet. This article shares a variety of smoothie recipes that are both healthy and delicious. From green detox smoothies to protein-packed shakes, find recipes that suit your taste and dietary needs.",
+      "sections": {
+        "1": [
+          {
+            "title": "Green Detox Smoothie",
+            "detail": "This refreshing green smoothie is packed with vitamins and minerals. Ingredients include spinach, kale, green apple, and lemon. The detoxifying properties of these ingredients help cleanse the body and boost energy levels.",
+            "src": "/images/discover/article_img/section_img/cooking1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Protein-Packed Shake",
+            "detail": "A protein-packed smoothie is ideal for post-workout recovery. Ingredients like banana, almond milk, protein powder, and chia seeds provide essential nutrients and help build muscle. This section offers a step-by-step guide to making a delicious and nutritious protein shake.",
+            "src": "/images/discover/article_img/section_img/cooking1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/cooking1.png"
+    },
+    {
+      "id": 11,
+      "category": "science",
+      "articlename": "The Mysteries of Quantum Physics",
+      "author": "James White",
+      "date": "15 July 2024",
+      "description": "Quantum physics is a branch of science that explores the behavior of matter and energy at the smallest scales. This article delves into some of the most fascinating aspects of quantum mechanics, including wave-particle duality, quantum entanglement, and the uncertainty principle. Understand the mysteries and implications of quantum physics.",
+      "sections": {
+        "1": [
+          {
+            "title": "Wave-Particle Duality",
+            "detail": "Wave-particle duality is a fundamental concept in quantum physics. It describes how particles such as electrons and photons exhibit both wave-like and particle-like properties. This section explains the phenomenon and its significance in understanding the nature of light and matter.",
+            "src": "/images/discover/article_img/section_img/science1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Quantum Entanglement",
+            "detail": "Quantum entanglement is a phenomenon where particles become interconnected in such a way that the state of one particle instantly influences the state of another, regardless of the distance between them. This section explores the concept of entanglement and its potential applications in quantum computing and cryptography.",
+            "src": "/images/discover/article_img/section_img/science1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/science1.png"
+    },
+    {
+      "id": 12,
+      "category": "history",
+      "articlename": "Ancient Civilizations and Their Contributions",
+      "author": "Emma Johnson",
+      "date": "22 July 2024",
+      "description": "Ancient civilizations have left a lasting impact on the world through their innovations and cultural contributions. This article explores the achievements of civilizations such as the Egyptians, Greeks, and Romans. Learn about their advancements in architecture, science, and philosophy, and how these contributions have shaped modern society.",
+      "sections": {
+        "1": [
+          {
+            "title": "Egyptian Architecture",
+            "detail": "The ancient Egyptians are renowned for their monumental architecture, including the pyramids and temples. This section discusses the engineering techniques and cultural significance of these structures, highlighting their enduring legacy.",
+            "src": "/images/discover/article_img/section_img/history1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Greek Philosophy",
+            "detail": "Greek philosophers such as Socrates, Plato, and Aristotle have profoundly influenced Western thought. This section explores their contributions to philosophy, ethics, and logic, and examines how their ideas continue to impact modern intellectual discourse.",
+            "src": "/images/discover/article_img/section_img/history1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/history1.png"
+    },
+    {
+      "id": 13,
+      "category": "art",
+      "articlename": "Impressionism: A Revolution in Art",
+      "author": "Lucas Anderson",
+      "date": "10 July 2024",
+      "description": "Impressionism emerged in the late 19th century as a revolutionary art movement that broke away from traditional techniques. This article examines the key characteristics of Impressionist art, including its focus on light, color, and everyday scenes. Learn about the leading figures of the movement, such as Claude Monet and Edgar Degas, and their influence on modern art.",
+      "sections": {
+        "1": [
+          {
+            "title": "Key Characteristics of Impressionism",
+            "detail": "Impressionist artists aimed to capture the fleeting effects of light and color in their works. They often painted en plein air, or outdoors, to accurately depict natural scenes. This section explores the techniques and themes that define Impressionist art.",
+            "src": "/images/discover/article_img/section_img/art1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Leading Figures of the Movement",
+            "detail": "Claude Monet, Edgar Degas, and Pierre-Auguste Renoir are among the most prominent Impressionist artists. This section provides an overview of their contributions to the movement and highlights some of their most famous works.",
+            "src": "/images/discover/article_img/section_img/art1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/art1.png"
+    },
+    {
+      "id": 14,
+      "category": "technology",
+      "articlename": "The Rise of Blockchain Technology",
+      "author": "David Williams",
+      "date": "18 July 2024",
+      "description": "Blockchain technology has gained widespread attention for its potential to revolutionize various industries, from finance to supply chain management. This article explores the basics of blockchain, its applications, and the benefits it offers in terms of transparency, security, and efficiency. Understand how blockchain technology is transforming the digital landscape.",
+      "sections": {
+        "1": [
+          {
+            "title": "Understanding Blockchain",
+            "detail": "Blockchain is a decentralized digital ledger that records transactions across multiple computers. This section explains how blockchain works, including key concepts such as distributed ledgers, consensus mechanisms, and cryptographic security.",
+            "src": "/images/discover/article_img/section_img/technology2_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Applications of Blockchain",
+            "detail": "Beyond cryptocurrencies, blockchain technology has numerous applications. It can enhance transparency in supply chains, improve data security in healthcare, and streamline processes in the financial sector. This section explores various use cases and the potential impact of blockchain technology on different industries.",
+            "src": "/images/discover/article_img/section_img/technology2_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/technology2.png"
+    },
+    {
+      "id": 15,
+      "category": "environment",
+      "articlename": "The Importance of Biodiversity",
+      "author": "Mia Thompson",
+      "date": "05 July 2024",
+      "description": "Biodiversity refers to the variety of life on Earth, encompassing different species, ecosystems, and genetic variations. This article discusses the critical role of biodiversity in maintaining ecological balance and supporting human well-being. Learn about the threats to biodiversity and the conservation efforts aimed at preserving it.",
+      "sections": {
+        "1": [
+          {
+            "title": "Ecological Importance",
+            "detail": "Biodiversity is essential for the stability and resilience of ecosystems. It ensures the availability of resources such as food, clean water, and oxygen, and supports processes like pollination and nutrient cycling. This section highlights the ecological significance of biodiversity and the interdependence of different species.",
+            "src": "/images/discover/article_img/section_img/environment1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Conservation Efforts",
+            "detail": "Various initiatives are in place to protect biodiversity, from establishing protected areas to implementing sustainable practices. This section explores global and local conservation efforts, including the role of organizations and communities in preserving biodiversity for future generations.",
+            "src": "/images/discover/article_img/section_img/environment1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/environment1.png"
+    },
+    {
+      "id": 16,
+      "category": "finance",
+      "articlename": "Investment Strategies for Beginners",
+      "author": "John Wilson",
+      "date": "08 July 2024",
+      "description": "Investing can be a powerful way to build wealth over time, but it can be daunting for beginners. This article provides an overview of basic investment strategies, including stocks, bonds, mutual funds, and real estate. Learn how to create a diversified investment portfolio and manage risk effectively.",
+      "sections": {
+        "1": [
+          {
+            "title": "Understanding Stocks and Bonds",
+            "detail": "Stocks represent ownership in a company, while bonds are loans made to a company or government. This section explains the differences between stocks and bonds, their potential returns, and the risks involved in investing in them.",
+            "src": "/images/discover/article_img/section_img/finance1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Creating a Diversified Portfolio",
+            "detail": "Diversification involves spreading investments across different asset classes to reduce risk. This section provides tips on how to build a diversified portfolio, balancing growth potential with risk management, and the importance of regular portfolio reviews.",
+            "src": "/images/discover/article_img/section_img/finance1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/finance1.png"
+    },
+    {
+      "id": 17,
+      "category": "literature",
+      "articlename": "Exploring the Classics of World Literature",
+      "author": "Anna Clark",
+      "date": "12 July 2024",
+      "description": "World literature offers a rich tapestry of stories and ideas that have shaped human culture and thought. This article explores some of the most influential works of world literature, from ancient epics to modern novels. Discover the timeless themes and cultural significance of these literary masterpieces.",
+      "sections": {
+        "1": [
+          {
+            "title": "Ancient Epics",
+            "detail": "Ancient epics such as the Iliad, the Odyssey, and the Mahabharata have captivated audiences for centuries. This section delves into the narratives, characters, and themes of these epic tales, and their impact on literature and culture.",
+            "src": "/images/discover/article_img/section_img/literature1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Modern Novels",
+            "detail": "Modern novels continue to explore complex themes and human experiences. Works by authors such as James Joyce, Gabriel Garcia Marquez, and Haruki Murakami have left a profound impact on contemporary literature. This section highlights key modern novels and their contributions to the literary world.",
+            "src": "/images/discover/article_img/section_img/literature1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/literature1.png"
+    },
+    {
+      "id": 18,
+      "category": "psychology",
+      "articlename": "Understanding Cognitive Behavioral Therapy",
+      "author": "Jessica Brown",
+      "date": "18 July 2024",
+      "description": "Cognitive Behavioral Therapy (CBT) is a widely used psychological treatment that helps individuals understand and change negative thought patterns and behaviors. This article explains the principles of CBT, its applications in treating various mental health conditions, and the techniques used in therapy sessions. Learn how CBT can promote mental well-being.",
+      "sections": {
+        "1": [
+          {
+            "title": "Principles of CBT",
+            "detail": "CBT is based on the idea that thoughts, feelings, and behaviors are interconnected. By identifying and challenging negative thought patterns, individuals can change their behavior and emotional responses. This section provides an overview of the core principles of CBT.",
+            "src": "/images/discover/article_img/section_img/psychology1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Techniques and Applications",
+            "detail": "CBT techniques include cognitive restructuring, exposure therapy, and behavioral activation. These methods are used to treat a variety of mental health conditions, such as depression, anxiety, and PTSD. This section explores the different techniques used in CBT and their effectiveness in promoting mental health.",
+            "src": "/images/discover/article_img/section_img/psychology1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/psychology1.png"
+    },
+    {
+      "id": 19,
+      "category": "science",
+      "articlename": "The Wonders of Quantum Mechanics",
+      "author": "Rachel Green",
+      "date": "20 July 2024",
+      "description": "Quantum mechanics is a fundamental theory in physics that describes the behavior of particles at the atomic and subatomic levels. This article explores the key concepts of quantum mechanics, including wave-particle duality, quantum entanglement, and superposition. Learn about the groundbreaking discoveries and the ongoing research in this fascinating field of science.",
+      "sections": {
+        "1": [
+          {
+            "title": "Key Concepts in Quantum Mechanics",
+            "detail": "Quantum mechanics challenges our understanding of the physical world with its counterintuitive concepts. This section explains the fundamental principles of quantum mechanics, such as wave-particle duality, which describes how particles can exhibit both wave-like and particle-like properties.",
+            "src": "/images/discover/article_img/section_img/science1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Applications and Research",
+            "detail": "Quantum mechanics has led to significant advancements in technology, including the development of quantum computers and quantum cryptography. This section explores the practical applications of quantum mechanics and the ongoing research that continues to expand our understanding of the quantum world.",
+            "src": "/images/discover/article_img/section_img/science1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/science1.png"
+    },
+    {
+      "id": 20,
+      "category": "philosophy",
+      "articlename": "The Ethics of Artificial Intelligence",
+      "author": "Daniel Scott",
+      "date": "28 July 2024",
+      "description": "The rapid development of artificial intelligence (AI) raises important ethical questions about its impact on society. This article examines the ethical considerations surrounding AI, including issues of privacy, bias, and the potential for job displacement. Learn about the efforts to create ethical guidelines and regulations for AI development and deployment.",
+      "sections": {
+        "1": [
+          {
+            "title": "Privacy and Surveillance",
+            "detail": "AI technologies can collect and analyze vast amounts of data, raising concerns about privacy and surveillance. This section discusses the ethical implications of data collection and the importance of protecting individuals' privacy in the age of AI.",
+            "src": "/images/discover/article_img/section_img/philosophy1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Bias and Fairness",
+            "detail": "AI systems can perpetuate and amplify biases present in the data they are trained on. This section explores the challenges of ensuring fairness and preventing discrimination in AI algorithms, and highlights the efforts to develop unbiased and equitable AI systems.",
+            "src": "/images/discover/article_img/section_img/philosophy1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/philosophy1.png"
+    },
+    {
+      "id": 21,
+      "category": "fashion",
+      "articlename": "Sustainable Fashion: Trends and Innovations",
+      "author": "Emma Roberts",
+      "date": "05 July 2024",
+      "description": "Sustainable fashion is gaining momentum as consumers and designers seek to reduce the environmental impact of clothing production. This article explores the latest trends and innovations in sustainable fashion, from eco-friendly materials to ethical manufacturing practices. Discover how the fashion industry is embracing sustainability and what it means for the future of fashion.",
+      "sections": {
+        "1": [
+          {
+            "title": "Eco-Friendly Materials",
+            "detail": "Sustainable fashion often involves the use of eco-friendly materials, such as organic cotton, recycled fabrics, and biodegradable textiles. This section highlights the benefits of these materials and their role in reducing the environmental footprint of clothing.",
+            "src": "/images/discover/article_img/section_img/fashion1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Ethical Manufacturing",
+            "detail": "Ethical manufacturing practices ensure fair wages and safe working conditions for garment workers. This section discusses the importance of ethical manufacturing in the fashion industry and the efforts to improve labor standards and transparency in the supply chain.",
+            "src": "/images/discover/article_img/section_img/fashion1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/fashion1.png"
+    },
+    {
+      "id": 22,
+      "category": "travel",
+      "articlename": "Culinary Journeys: Exploring World Cuisine",
+      "author": "Sophia Garcia",
+      "date": "25 July 2024",
+      "description": "Food is an integral part of travel, offering a unique insight into the culture and traditions of different regions. This article takes readers on a culinary journey around the world, highlighting iconic dishes and food experiences from various countries. Learn about the flavors, ingredients, and culinary techniques that define global cuisine.",
+      "sections": {
+        "1": [
+          {
+            "title": "Italian Cuisine",
+            "detail": "Italian cuisine is celebrated for its simplicity and emphasis on fresh ingredients. This section explores classic Italian dishes such as pasta, pizza, and risotto, and delves into the regional variations and culinary traditions that make Italian food so beloved worldwide.",
+            "src": "/images/discover/article_img/section_img/travel2_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Japanese Cuisine",
+            "detail": "Japanese cuisine is known for its delicate flavors and meticulous presentation. This section highlights key elements of Japanese food, including sushi, sashimi, and ramen, and discusses the cultural significance of culinary practices such as tea ceremonies and seasonal eating.",
+            "src": "/images/discover/article_img/section_img/travel2_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/travel2.png"
+    },
+    {
+      "id": 23,
+      "category": "music",
+      "articlename": "The Evolution of Jazz Music",
+      "author": "Michael Lewis",
+      "date": "15 July 2024",
+      "description": "Jazz music has evolved significantly since its origins in the early 20th century. This article traces the development of jazz, from its roots in African American communities to its global influence today. Learn about the key genres, influential artists, and cultural impact of jazz music.",
+      "sections": {
+        "1": [
+          {
+            "title": "Origins and Early Development",
+            "detail": "Jazz originated in the African American communities of New Orleans, blending elements of blues, ragtime, and African rhythms. This section explores the early development of jazz, its cultural roots, and the impact of pioneers such as Louis Armstrong and Duke Ellington.",
+            "src": "/images/discover/article_img/section_img/music1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Genres and Influences",
+            "detail": "Jazz has diversified into various genres, including swing, bebop, and fusion. This section examines the evolution of these genres and the influence of jazz on other musical styles, highlighting the contributions of artists like Miles Davis, John Coltrane, and Herbie Hancock.",
+            "src": "/images/discover/article_img/section_img/music1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/music1.png"
+    },
+    {
+      "id": 24,
+      "category": "wellness",
+      "articlename": "Holistic Approaches to Wellness",
+      "author": "Olivia Taylor",
+      "date": "22 July 2024",
+      "description": "Holistic wellness encompasses the physical, mental, and spiritual aspects of well-being. This article explores various holistic practices, such as yoga, meditation, and naturopathy, that promote overall health. Learn how integrating these practices into your daily routine can enhance your quality of life and support long-term wellness.",
+      "sections": {
+        "1": [
+          {
+            "title": "Yoga and Meditation",
+            "detail": "Yoga and meditation are powerful tools for achieving physical and mental balance. This section discusses the benefits of these practices, including improved flexibility, reduced stress, and enhanced mindfulness. Learn about different styles of yoga and meditation techniques to find the approach that suits you best.",
+            "src": "/images/discover/article_img/section_img/wellness1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Naturopathy",
+            "detail": "Naturopathy emphasizes natural remedies and lifestyle changes to support health and prevent disease. This section explores the principles of naturopathy, including nutrition, herbal medicine, and physical therapies, and how they can be integrated into a holistic wellness plan.",
+            "src": "/images/discover/article_img/section_img/wellness1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/wellness1.png"
+    },
+    {
+      "id": 25,
+      "category": "education",
+      "articlename": "Innovative Teaching Methods in Modern Education",
+      "author": "Ethan Davis",
+      "date": "10 July 2024",
+      "description": "Education is evolving with the adoption of innovative teaching methods that enhance learning experiences. This article explores various modern teaching techniques, such as project-based learning, flipped classrooms, and digital tools, that are transforming education. Understand how these methods can improve student engagement and outcomes.",
+      "sections": {
+        "1": [
+          {
+            "title": "Project-Based Learning",
+            "detail": "Project-based learning involves students working on real-world projects that integrate multiple subjects and skills. This section discusses the benefits of this approach, including increased engagement, collaboration, and critical thinking, and provides examples of successful project-based learning initiatives.",
+            "src": "/images/discover/article_img/section_img/education1_section1.png"
+          }
+        ],
+        "2": [
+          {
+            "title": "Flipped Classrooms",
+            "detail": "Flipped classrooms invert the traditional teaching model by delivering instructional content online outside of class and using classroom time for interactive activities. This section explores the advantages of flipped classrooms, such as personalized learning and active participation, and offers tips for implementing this approach effectively.",
+            "src": "/images/discover/article_img/section_img/education1_section2.png"
+          }
+        ]
+      },
+      "src": "/images/discover/article_img/education1.png"
     }
   ]
 }
