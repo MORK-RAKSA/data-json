@@ -19,7 +19,7 @@
       "author": "Peaceful Minds"
     }
   ],
-"category": [
+  "category": [
     {
       "id": 1,
       "title": "Meditation",
@@ -942,9 +942,12 @@
       "src": "/images/discover/article_img/education1.png"
     }
   ],
-  "alarms": [
-  ],
-  "profiles": [
-
+  "alarms": [],
+  "quote": [
+    {
+      "id": "0001",
+      "text": "<span style=\"color: rgb(34, 139, 34);\"><font style=\"font-size: 30px;\"><b style=\"\">Rise and Shine!</b></font></span> <font style=\"font-size: 18px;\"><i>Today is full of opportunities. ✏️</i></font>",
+      "styles": ""
+    }
   ]
 }
